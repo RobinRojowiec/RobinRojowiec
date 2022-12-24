@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/RobinRojowiec/RobinRojowiec/blob/main/github-metrics.svg)
+
 <!--
 **RobinRojowiec/RobinRojowiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](/github-metrics.svg)
